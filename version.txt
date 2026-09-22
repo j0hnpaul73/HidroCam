@@ -1,0 +1,3 @@
+0.4.0
+Encuadre y OTA
+{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.4.0","build":5,"size":1176832,"sha256":"ddd7377bfe32af60960b2a724f223d843c3c222a1c5c6f4da55f1111595a10cf"}

@@ -1,0 +1,5 @@
+HidroCam 0.4.0 - Encuadre y OTA
+
+Vista de camara en la TFT, menus adaptados del ECG y barra de inicio sin borrado completo.
+Actualizaciones desde j0hnpaul73/HidroCam.
+El enfoque se ajusta fisicamente; la vista reducida no certifica la nitidez de manchas finas.
