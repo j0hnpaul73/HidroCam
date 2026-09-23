@@ -1,3 +1,3 @@
-0.6.0
-Interfaz y QR unico
-{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.6.0","build":8,"size":1192864,"sha256":"1288c9902c91c9143860091196d810ed108ce0e6ac20b389c0031572e22aca7b"}
+0.6.1
+Correccion validacion OTA
+{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.6.1","build":9,"size":1192864,"sha256":"8d2aded51e109dd21ab3808f362730aaf02299ebc0a5c29e733d651ff311c031"}

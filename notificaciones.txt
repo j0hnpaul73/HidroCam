@@ -1,3 +1,6 @@
+[ota-061][Validacion corregida]
+Esta version corrige el rechazo de archivos de version validos. Con el lector y GitHub en 0.6.1 aparece Firmware al dia; Instalar se ofrece para una version posterior.
+
 [interfaz-060][Nueva interfaz]
 La opcion seleccionada queda rellena. El sobre del menu muestra cuantos avisos quedan sin leer.
 
