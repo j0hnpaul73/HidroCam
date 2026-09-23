@@ -1,11 +1,13 @@
-[bienvenida-050][Nueva bandeja]
-Cada aviso se abre por separado. El asterisco indica que todavia no lo leiste.
+[interfaz-060][Nueva interfaz]
+La opcion seleccionada queda rellena. El sobre del menu muestra cuantos avisos quedan sin leer.
 
-[wifi-050][Wi-Fi directo]
-Configuracion > Wi-Fi > Conectar Wi-Fi. El QR del formulario abre directamente la pantalla para ingresar tu red.
+[wifi-060][Un solo QR]
+Primero conecta tu celular a la red y clave que muestra el lector. Luego escanea el QR para abrir directamente la pagina indicada.
 
-[encuadre-050][Revisa el encuadre]
-La vista TFT muestra una foto fija. Usa Actualizar imagen para ver la posicion actual de la tarjeta.
+[paginas-060][Prueba de paginas]
+Este mensaje tiene varias paginas para probar los botones. El boton RECORRER pasa directamente a la pagina siguiente. Cuando llegas al final, vuelve a la primera pagina.
+El boton CONFIRMAR vuelve directamente a la bandeja, desde cualquier pagina. Las dos funciones aparecen en la barra inferior sin ninguna opcion seleccionada.
+Al volver, este aviso queda marcado como leido y baja el contador del sobre. Reiniciar el lector conserva esa marca.
 
-[lectura-050][Prueba de lectura]
-Abri este aviso, volve a la bandeja y reinicia el lector. Este mensaje debe seguir marcado como leido.
+[calibracion-060][Factor de expansion]
+Sin calibrar gotas significa que todavia se miden diametros de manchas. El factor permite estimar diametros de gotas; no se elige automaticamente por tipo de producto.
