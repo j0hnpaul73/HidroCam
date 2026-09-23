@@ -1,5 +1,11 @@
-HidroCam 0.4.0 - Encuadre y OTA
+[bienvenida-050][Nueva bandeja]
+Cada aviso se abre por separado. El asterisco indica que todavia no lo leiste.
 
-Vista de camara en la TFT, menus adaptados del ECG y barra de inicio sin borrado completo.
-Actualizaciones desde j0hnpaul73/HidroCam.
-El enfoque se ajusta fisicamente; la vista reducida no certifica la nitidez de manchas finas.
+[wifi-050][Wi-Fi directo]
+Configuracion > Wi-Fi > Conectar Wi-Fi. El QR del formulario abre directamente la pantalla para ingresar tu red.
+
+[encuadre-050][Revisa el encuadre]
+La vista TFT muestra una foto fija. Usa Actualizar imagen para ver la posicion actual de la tarjeta.
+
+[lectura-050][Prueba de lectura]
+Abri este aviso, volve a la bandeja y reinicia el lector. Este mensaje debe seguir marcado como leido.
