@@ -1,12 +1,12 @@
-[bienvenida-070][Menus renovados]
-Las opciones se alinean a la izquierda y se centran verticalmente. Los titulos de las cabeceras son blancos y ya no aparece el pie NEXT / OK.
+[wifi-080][Estado y calidad del Wi-Fi]
+La cabecera principal muestra la senal Wi-Fi. El simbolo tachado indica desconexion. En Configuracion > Wi-Fi, la primera opcion muestra el nombre de la red conectada.
 
-[titulo-070][Este es un titulo largo para probar el desplazamiento completo]
-Deja seleccionada esta fila para ver como se desplaza el titulo. Al abrir el aviso, la cabecera tambien se mueve para mostrar todo el texto.
+[calibracion-080][Calibracion desde el lector]
+En Configuracion > Calibracion podes elegir tarjeta y medidas, ajustar factor, sensibilidad y minimo de pixeles. RECORRER cambia de opcion y CONFIRMAR la ejecuta. Al terminar elegi Guardar cambios.
+La marca no asigna un factor de gotas automatico. Cambiar tarjeta o medidas restablece ese factor a cero; despues podes ajustarlo si tenes una calibracion valida.
 
-[paginas-070][Prueba de paginas]
-En un mensaje normal, RECORRER pasa a la pagina siguiente y CONFIRMAR vuelve a la bandeja. Al llegar a la ultima pagina, RECORRER vuelve a la primera.
-El aviso de firmware funciona distinto: RECORRER alterna Instalar y Volver; CONFIRMAR ejecuta la opcion elegida. Si esa version ya esta en el lector, aparece Instalada.
+[flash-080][Vista previa con flash]
+El flash tambien ilumina la primera imagen de encuadre y las vistas posteriores. Se apaga antes de mostrar la imagen. La vista sigue siendo una fotografia fija.
 
-[ota-070][Actualizacion desde el lector]
-El primer aviso de la bandeja muestra el estado del firmware. La busqueda y la instalacion se hacen desde el lector conectado a Wi-Fi con Internet. El mensaje sigue visible despues de instalar.
+[bandeja-080][Avisos nuevos y firmware]
+La actualizacion permanece primera en la lista. Al leer todos los avisos desaparecen el sobre y el contador del menu principal. La cabecera Notificaciones indica entre parentesis los avisos sin leer.
