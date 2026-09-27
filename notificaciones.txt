@@ -1,12 +1,8 @@
-[wifi-080][Estado y calidad del Wi-Fi]
-La cabecera principal muestra la senal Wi-Fi. El simbolo tachado indica desconexion. En Configuracion > Wi-Fi, la primera opcion muestra el nombre de la red conectada.
+[fotos-090][Fotos originales en tu celular o computadora]
+Abri el portal del lector. En Nuevo analisis, Ver ultima foto muestra la captura mas reciente sin tomar otra. Podes ampliarla y descargar el JPEG original. Se conserva solo la ultima foto y se pierde al apagar.
 
-[calibracion-080][Calibracion desde el lector]
-En Configuracion > Calibracion podes elegir tarjeta y medidas, ajustar factor, sensibilidad y minimo de pixeles. RECORRER cambia de opcion y CONFIRMAR la ejecuta. Al terminar elegi Guardar cambios.
-La marca no asigna un factor de gotas automatico. Cambiar tarjeta o medidas restablece ese factor a cero; despues podes ajustarlo si tenes una calibracion valida.
+[impresion-090][Pruebas impresas en blanco y negro]
+El ZIP incluye ocho tarjetas de 26 x 76 mm. Imprimi al 100%, recorta por las marcas y activa Calibracion > Modo: Prueba B/N > Guardar cambios. Volve al modo Tarjeta real cuando termines.
 
-[flash-080][Vista previa con flash]
-El flash tambien ilumina la primera imagen de encuadre y las vistas posteriores. Se apaga antes de mostrar la imagen. La vista sigue siendo una fotografia fija.
-
-[bandeja-080][Avisos nuevos y firmware]
-La actualizacion permanece primera en la lista. Al leer todos los avisos desaparecen el sobre y el contador del menu principal. La cabecera Notificaciones indica entre parentesis los avisos sin leer.
+[wifi-090][Elegir la red de una lista]
+El formulario Wi-Fi muestra las redes de 2,4 GHz disponibles. Elegi una y escribi la clave. Buscar redes actualiza la lista. La antena de la cabecera tiene arcos mas gruesos y simetricos.
