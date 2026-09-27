@@ -1,8 +1,5 @@
-[fotos-090][Fotos originales en tu celular o computadora]
-Abri el portal del lector. En Nuevo analisis, Ver ultima foto muestra la captura mas reciente sin tomar otra. Podes ampliarla y descargar el JPEG original. Se conserva solo la ultima foto y se pierde al apagar.
+[flash-0100][Intensidad del flash]
+En Configuracion > Calibracion > Flash elegi Apagado, 10%, 25%, 50%, 75% o 100%. Luego usa Guardar cambios. Nivel inicial 25%. Se aplica al encuadre y al analisis.
 
-[impresion-090][Pruebas impresas en blanco y negro]
-El ZIP incluye ocho tarjetas de 26 x 76 mm. Imprimi al 100%, recorta por las marcas y activa Calibracion > Modo: Prueba B/N > Guardar cambios. Volve al modo Tarjeta real cuando termines.
-
-[wifi-090][Elegir la red de una lista]
-El formulario Wi-Fi muestra las redes de 2,4 GHz disponibles. Elegi una y escribi la clave. Buscar redes actualiza la lista. La antena de la cabecera tiene arcos mas gruesos y simetricos.
+[portal-0100][Portal en Configuracion]
+Abrir portal esta ahora justo debajo de Wi-Fi, dentro de Configuracion. Conectate a la red del lector y escanea el QR para ver y descargar la ultima foto.
