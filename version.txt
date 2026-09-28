@@ -1,3 +1,3 @@
-0.11.0
-Enfoque en vivo y menus deslizantes
-{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.11.0","build":14,"size":1216816,"sha256":"ba11ee5cc0b8c5c451c84815c2dae51bff49ff813fe9ca0f09425c2f26bd110e"}
+0.12.0
+Avisos automaticos y controles simples
+{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.12.0","build":15,"size":1217184,"sha256":"3c1a559aea9d380d68248a63856805922925f29acb1e7d2949c839ff8a49c3ed"}
