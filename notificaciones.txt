@@ -1,5 +1,8 @@
-[flash-0100][Intensidad del flash]
-En Configuracion > Calibracion > Flash elegi Apagado, 10%, 25%, 50%, 75% o 100%. Luego usa Guardar cambios. Nivel inicial 25%. Se aplica al encuadre y al analisis.
+[enfoque-0110][Enfoque en vivo]
+En Configuracion > Calibracion > Enfoque en vivo la imagen se actualiza sola. NEXT alterna vista entera y centro 1:1; OK vuelve. Flash sostenido hasta 25%, sesion de un minuto. No cambia el nivel guardado para las fotos.
 
-[portal-0100][Portal en Configuracion]
-Abrir portal esta ahora justo debajo de Wi-Fi, dentro de Configuracion. Conectate a la red del lector y escanea el QR para ver y descargar la ultima foto.
+[menus-0110][Menus deslizantes]
+Al llegar al borde de una lista aparece la siguiente opcion con desplazamiento continuo. Incluye configuracion, calibracion, notificaciones y registros.
+
+[modos-0110][Elegir el modo de lectura]
+Tarjeta real reconoce manchas azules sobre amarillo. Prueba B/N reconoce puntos negros impresos sobre blanco y no estima gotas reales. Volve al modo real al usar tarjetas hidrosensibles.
