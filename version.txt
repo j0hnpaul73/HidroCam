@@ -1,3 +1,3 @@
-0.12.0
-Avisos automaticos y controles simples
-{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.12.0","build":15,"size":1217184,"sha256":"3c1a559aea9d380d68248a63856805922925f29acb1e7d2949c839ff8a49c3ed"}
+0.13.1
+Dos tomas con giro de 180 grados
+{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.13.1","build":17,"size":1229488,"sha256":"3d3846e71598653c5e87a792754c7767ce4b25b5a056a02fa7a375aac065dcc0"}

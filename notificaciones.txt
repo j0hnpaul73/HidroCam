@@ -1,8 +1,8 @@
-[avisos-0120][Consulta automatica de novedades]
-Conectado a Internet, el lector consulta GitHub tras conectar y cada dos minutos. No hace falta abrir Notificaciones. Las consultas esperan al terminar capturas, enfoque o lectura de mensajes. Instalar firmware sigue requiriendo confirmacion.
+[giro-0131][Dos tomas: gira 180 grados]
+Captura un extremo. Saca la tarjeta, girala 180 grados sobre su plano, manteniendo las manchas hacia la camara, e introduce el otro extremo por la misma ranura. El lector corrige la segunda imagen automaticamente.
 
-[controles-0120][Portal y guardado mas simples]
-Guardar cambios vuelve a Configuracion. La opcion Abrir portal se convierte en Cerrar portal mientras esta activo. Volver desde el QR no cierra el portal.
+[solape-0131][Conserva el centro compartido]
+Mostra unos 45 a 48 mm en cada toma de una tarjeta de 76 mm, con ambos bordes largos y margen en el extremo visible. No cambies distancia ni enfoque. Las manchas compartidas se cuentan una sola vez si la union se verifica.
 
-[enfoque-0120][Elegir luz antes de enfocar]
-Enfoque en vivo pide primero Apagado, 10% o 25%. En la imagen, OK vuelve y NEXT no tiene funcion. La intensidad de esta prueba no cambia el flash guardado para las fotos.
+[prueba-0131][Prueba experimental]
+Las fotos del portal conservan su orientacion original. Descarga cada foto antes de tomar otra si queres conservar ambas. La union aun necesita validacion con tus dos capturas reales.
