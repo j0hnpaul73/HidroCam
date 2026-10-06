@@ -1,8 +1,8 @@
-[encuadre-0140][Analiza la imagen que estas viendo]
-Usar esta imagen analiza el mismo encuadre sin volver a disparar. Volver a tomar permite reemplazarlo. En dos tomas continua con la segunda mitad tras aceptar la primera.
+[foco-0150][Enfoque con indicador de nitidez]
+Calibracion > Enfoque en vivo muestra N y Max, una barra y tres zonas de medicion. Gira el lente despacio y espera varias lecturas. Mas alto indica mejor detalle relativo dentro de la misma sesion.
 
-[ensayo-0140][Capturas e informe en un ZIP]
-En el portal: Descargar capturas + informe. Conserva la primera aceptada y la segunda vista o intento mas reciente, incluso si falla. Descarga antes de otra tarjeta o apagar. Fotos temporales en RAM.
+[tarjeta-0150][Usa P02 Tres tamanos]
+Mantene la tarjeta plana, quieta y a la distancia de trabajo. Los recuadros deben contener puntos. No uses la tarjeta blanca o de centro vacio. No es necesario reimprimir el PDF.
 
-[centro-0140][Centro vacio: union geometrica]
-Si no se detectan manchas en el centro y la geometria es consistente, se permite unir por bordes y medidas con advertencia. No verifica coincidencias: resultado experimental. Una o dos referencias centrales aun pueden causar rechazo.
+[limites-0150][El indice es una ayuda]
+No es porcentaje ni garantia de precision. Luz, movimiento y ruido pueden alterar la lectura. Salir y volver a entrar reinicia el maximo. OK vuelve; el otro boton queda sin funcion. Todo se procesa en la ESP32.

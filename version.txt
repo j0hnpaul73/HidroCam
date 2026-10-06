@@ -1,3 +1,3 @@
-0.14.0
-Analizar encuadre y pruebas de dos tomas
-{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.14.0","build":18,"size":1244064,"sha256":"e661b0b391ef8e2bc853ffead9a7dc47ba48fdc94d4d49bbd9d5f525c26afc1d"}
+0.15.0
+Indicador de nitidez en vivo
+{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.15.0","build":20,"size":1252144,"sha256":"2dad5a73252e12baa4366cd4d680f3f3aed44e2cf8faeb7abafd70e7f1b6311d"}
