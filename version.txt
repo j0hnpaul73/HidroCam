@@ -1,3 +1,3 @@
-0.13.1
-Dos tomas con giro de 180 grados
-{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.13.1","build":17,"size":1229488,"sha256":"3d3846e71598653c5e87a792754c7767ce4b25b5a056a02fa7a375aac065dcc0"}
+0.14.0
+Analizar encuadre y pruebas de dos tomas
+{"model":"hidrocam-ai-thinker-cs-gnd-v2","version":"0.14.0","build":18,"size":1244064,"sha256":"e661b0b391ef8e2bc853ffead9a7dc47ba48fdc94d4d49bbd9d5f525c26afc1d"}

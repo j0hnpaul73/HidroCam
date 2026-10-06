@@ -1,8 +1,8 @@
-[giro-0131][Dos tomas: gira 180 grados]
-Captura un extremo. Saca la tarjeta, girala 180 grados sobre su plano, manteniendo las manchas hacia la camara, e introduce el otro extremo por la misma ranura. El lector corrige la segunda imagen automaticamente.
+[encuadre-0140][Analiza la imagen que estas viendo]
+Usar esta imagen analiza el mismo encuadre sin volver a disparar. Volver a tomar permite reemplazarlo. En dos tomas continua con la segunda mitad tras aceptar la primera.
 
-[solape-0131][Conserva el centro compartido]
-Mostra unos 45 a 48 mm en cada toma de una tarjeta de 76 mm, con ambos bordes largos y margen en el extremo visible. No cambies distancia ni enfoque. Las manchas compartidas se cuentan una sola vez si la union se verifica.
+[ensayo-0140][Capturas e informe en un ZIP]
+En el portal: Descargar capturas + informe. Conserva la primera aceptada y la segunda vista o intento mas reciente, incluso si falla. Descarga antes de otra tarjeta o apagar. Fotos temporales en RAM.
 
-[prueba-0131][Prueba experimental]
-Las fotos del portal conservan su orientacion original. Descarga cada foto antes de tomar otra si queres conservar ambas. La union aun necesita validacion con tus dos capturas reales.
+[centro-0140][Centro vacio: union geometrica]
+Si no se detectan manchas en el centro y la geometria es consistente, se permite unir por bordes y medidas con advertencia. No verifica coincidencias: resultado experimental. Una o dos referencias centrales aun pueden causar rechazo.
