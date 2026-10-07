@@ -1,8 +1,8 @@
-[foco-0150][Enfoque con indicador de nitidez]
-Calibracion > Enfoque en vivo muestra N y Max, una barra y tres zonas de medicion. Gira el lente despacio y espera varias lecturas. Mas alto indica mejor detalle relativo dentro de la misma sesion.
+[union-0160][Mejora de union de dos tomas]
+Ahora corrige pequenas diferencias de escala y orientacion cuando hay suficientes manchas compartidas y distribuidas. Conserva la rotacion de 180 grados de la segunda toma.
 
-[tarjeta-0150][Usa P02 Tres tamanos]
-Mantene la tarjeta plana, quieta y a la distancia de trabajo. Los recuadros deben contener puntos. No uses la tarjeta blanca o de centro vacio. No es necesario reimprimir el PDF.
+[prueba-0160][Repite una tarjeta conocida]
+Mantene modo prueba para papel impreso, dos tomas y medidas reales. Usa la imagen tomada o repetila si esta borrosa. Descarga el ZIP de capturas al finalizar para revisar el resultado.
 
-[limites-0150][El indice es una ayuda]
-No es porcentaje ni garantia de precision. Luz, movimiento y ruido pueden alterar la lectura. Salir y volver a entrar reinicia el maximo. OK vuelve; el otro boton queda sin funcion. Todo se procesa en la ESP32.
+[limites-0160][Union no significa conteo perfecto]
+El ajuste evita duplicados de la zona compartida pero no recupera puntos invisibles por desenfoque ni elimina todo ruido. Las uniones ambiguas siguen rechazandose. Mantene la tarjeta plana y la iluminacion estable.
